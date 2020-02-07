@@ -5,15 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/mystyle.css">
+    <script src="js/myfunction.js charset=utf-8"></script>
     <title>Document</title>
 </head>
 <body>
-    <?php
     <div id="header">
         This is the header
     </div>
     <div id="menu">
         menu
+        <ul>
+            <li><a href="#" onclick="loadDoc('page1.html')">Page1</a></li>
+            <li><a href="#" onclick="loadDoc('page2.html')">Page2</a></li>
+            <li><a href="#" onclick="loadDoc('page3.html')">Page3</a></li>
+        </ul>
     </div>
     <div id="content">
         Here is the content
@@ -21,6 +26,5 @@
     <div id="footer">
         This is the footer
     </div>
-    ?>
 </body>
 </html>
