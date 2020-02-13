@@ -35,3 +35,8 @@ function loadDoc(page) {
     var target_phone=document.getElementById("target_phone");
     target_phone.value=phone;
   }
+
+
+  handeOfAdd = () => {
+    console.log('hello')
+  }
