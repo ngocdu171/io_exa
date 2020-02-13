@@ -47,6 +47,4 @@ function loadDoc(page) {
   }
 
 
-handOfLogin = () => {
-
-} 
+ 
