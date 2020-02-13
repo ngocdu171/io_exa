@@ -1,3 +1,4 @@
+
 function loadDoc(page) {
     console.log(page);
     var xhttp = new XMLHttpRequest();
