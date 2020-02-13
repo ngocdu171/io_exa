@@ -45,3 +45,6 @@ function loadDoc(page) {
   handOfLogout = () => {
     console.log('ex5')
   }
+
+
+ 
