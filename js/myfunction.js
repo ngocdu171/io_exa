@@ -41,3 +41,7 @@ function loadDoc(page) {
   handeOfAdd = () => {
     console.log('hello')
   }
+
+  handOfLogout = () => {
+    console.log('ex5')
+  }
