@@ -23,17 +23,17 @@ html,body{
 }
 #content{
     background-color: rgb(248, 245, 245);
+    margin-left: 160px;
 }
 #footer{
     background-color: rgb(169, 177, 177);
 }
-
 .myforms{
     border-color: black;
     border-style: solid;
     border-radius: 20px;
     padding: 20px;
-      width: 200px;
+    width: 200px;
   }
   #sourceForm{
     background-color: yellow;
